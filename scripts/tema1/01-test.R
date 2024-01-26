@@ -21,4 +21,3 @@ plot(lm.D9, las = 1)      # Residuals, Fitted, ...
 par(opar)
 
 ### less simple examples in "See Also" above
-
